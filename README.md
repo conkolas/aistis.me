@@ -1,2 +1,0 @@
-# aistis.me
-Personal portfolio
