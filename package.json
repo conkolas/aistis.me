@@ -1,0 +1,21 @@
+{
+  "name": "aistis.me",
+  "version": "1.0.0",
+  "description": "Personal portfolio",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conkolas/aistis.me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conkolas/aistis.me/issues"
+  },
+  "homepage": "https://github.com/conkolas/aistis.me#readme"
+}
